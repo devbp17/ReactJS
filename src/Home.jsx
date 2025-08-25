@@ -1,4 +1,4 @@
-import discord from "./assets/Discord.png"
+import discord from "./assets/DIscord.png"
 import github from "./assets/Github.png"
 import whatsapp from "./assets/Whatsapp.png"
 import RevealOnScroll from "./effect.jsx";
