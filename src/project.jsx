@@ -1,5 +1,5 @@
 import RevealOnScroll from "./effect"
-import telkomsel from "./assets/telkomsel.jpg"
+import telkomsel from "./assets/Telkomsel.jpg"
 
 function Project(){
     return(
