@@ -1,4 +1,4 @@
-import react from './assets/React.svg'
+import react from './assets/react.svg'
 import flutter from './assets/flutter.svg'
 import dart from './assets/dart.svg'
 import HTML from './assets/HTML.svg'
