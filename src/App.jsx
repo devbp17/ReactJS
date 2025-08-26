@@ -5,7 +5,7 @@ import Project from './project';
 
 function App() {
   return(
-    <BrowserRouter>
+    <BrowserRouter basename='/ReactJS'>
      <Routes>
       <Route path='/' element={<Home/>}/>
       <Route path='/Home' element={<Home/>}/>
